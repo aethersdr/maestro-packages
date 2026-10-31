@@ -1,0 +1,35 @@
+AetherConsole License
+======================
+
+Copyright (c) 2026 Jeremy Fielder (KK7GWY). All rights reserved.
+
+AetherConsole is proprietary software. Its source code is confidential and is
+not licensed for use, copying, modification or distribution, except under a
+separate written grant from the copyright holder.
+
+Installing and running. Anyone who owns a FlexRadio Maestro that the AetherSDR
+project supports may install and run the AetherConsole build that the AetherSDR
+project publishes on that device, and may keep copies for that purpose. They may
+not sell or redistribute it, or use it apart from running it on such a device.
+
+Access to the source. Members of the AetherSDR project given access to
+AetherConsole's source repository may read and modify the source only to
+develop AetherConsole for the copyright holder. They must keep it confidential
+and may not copy it elsewhere or distribute it, in source or binary form.
+
+Contributions. Anyone who contributes to AetherConsole (code, documentation or
+other material) grants the copyright holder a perpetual, irrevocable, worldwide,
+royalty-free license to use, modify, distribute and sublicense the contribution
+under any terms, including closed-source terms, and confirms they have the right
+to do so.
+
+Other people's work. Third-party components keep their own licenses, which this
+license does not change. AetherConsole runs on third-party software it does not
+include (for example the Qt/PySide6 toolkit and the Python runtime); this license
+grants no rights in those components.
+
+No warranty. AetherConsole is provided "as is", without warranty of any kind,
+express or implied, including the warranties of merchantability, fitness for a
+particular purpose and non-infringement. In no event shall the copyright holder
+be liable for any claim, damages or other liability arising from AetherConsole
+or its use, including damage to a device or loss of its data.
