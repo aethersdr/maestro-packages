@@ -9,6 +9,14 @@ is kept here.
 A console installed from the AetherSDR Maestro image already uses this repository and
 updates from it with the rest of the system (the settings panel's **Software Update**).
 
+## Installing a console
+
+The AetherSDR Maestro image is published here too, one release per image: the
+[latest release](../../releases/latest) holds the newest `maestro-console-<version>.img.xz`
+and its SHA-256. The [build guide](docs/BUILD-GUIDE.md) takes you from a new NVMe drive
+to a working console: writing the image, fitting the drive and the first start. Read its
+warnings first.
+
 ## Using it by hand
 
 Trust the signing key, then add the repository to `/etc/pacman.conf`:
