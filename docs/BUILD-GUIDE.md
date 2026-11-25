@@ -252,8 +252,8 @@ the console's own name, `maestro-xxxx`.
 
 | Task | How |
 |---|---|
-| Update the system | On the console: the gear on the chooser, then **Update now** (and **Restart now** when it asks). This updates Linux and the console's own software. |
-| Update AetherSDR | The update above does not change AetherSDR: the image carries the AetherSDR release that was current when the image was built. A newer image brings a newer AetherSDR. |
+| Update the system | On the console: the gear on the chooser, then **Update now** (and **Restart now** when it asks). This updates Linux, the console's own software and AetherSDR. |
+| Update AetherSDR | **Update now** above brings AetherSDR's newest release, usually within six hours of its release. A console installed from an older image gets it at its first update. You don't need a new image for it. |
 | Change Wi-Fi | The chooser's Wi-Fi button opens the network setup any time. With no network at start-up, the console opens it before the chooser. |
 | Start over | The gear on the chooser, then **Reset to defaults**. It forgets the saved networks, the time zone, Tailscale and the console's own settings, then restarts into the setup wizard. AetherSDR keeps its settings. |
 
